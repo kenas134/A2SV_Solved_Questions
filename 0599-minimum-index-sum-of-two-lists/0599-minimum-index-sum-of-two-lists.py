@@ -13,7 +13,7 @@ class Solution:
                 chk[list2[i]] += i
         
         # keep only restaurants that appear in both lists
-        chk = {k: v for k, v in chk.items() if k in list2}
+        chk = {k: v for k, v in chk.items() if k in set(list2)}
         
         # convert to list before sorting
         ans = list(chk.items())
