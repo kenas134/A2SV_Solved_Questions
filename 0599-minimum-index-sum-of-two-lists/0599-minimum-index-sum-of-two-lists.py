@@ -7,15 +7,16 @@ class Solution:
             if list1[i] not in chk:
                 chk[list1[i]] = i
         
-        # add indices from list2, remove if not common
+        
         for i in range(len(list2)):
             if list2[i] in chk:
                 chk[list2[i]] += i
         
-        # keep only restaurants that appear in both lists
-        chk = {k: v for k, v in chk.items() if k in set(list2)}
+        z = set(list2)
+       
+        chk = {k: v for k, v in chk.items() if k in z}
         
-        # convert to list before sorting
+        
         ans = list(chk.items())
         ans.sort(key=lambda x: x[1])
         
