@@ -1,0 +1,19 @@
+class Solution:
+    def removeDuplicateLetters(self, s: str) -> str:
+        last_count = {c: s.count(c) for c in set(s)}
+        stack = []
+        seen = set()
+
+        for c in s:
+            last_count[c] -= 1
+
+            if c in seen:
+                continue
+
+            while stack and c < stack[-1] and last_count[stack[-1]] > 0:
+                seen.remove(stack.pop())
+
+            stack.append(c)
+            seen.add(c)
+
+        return "".join(stack)
