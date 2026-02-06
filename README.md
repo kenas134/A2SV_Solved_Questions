@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Stack
@@ -108,4 +112,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
