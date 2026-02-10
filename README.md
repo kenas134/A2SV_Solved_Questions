@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
