@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
