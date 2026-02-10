@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
