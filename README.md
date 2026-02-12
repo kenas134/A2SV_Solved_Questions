@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
