@@ -8,7 +8,7 @@ class Solution:
                 chk[i+j].append(mat[i][j])
 
         ans = []
-        for i in range(n+m+1):
+        for i in range(n+m-1):
             if i % 2 == 0:
                 ans += chk[i][::-1]
             else:
