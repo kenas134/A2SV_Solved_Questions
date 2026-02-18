@@ -5,14 +5,12 @@ class Solution:
         maxx = max(heights)
         arr = [0]*(maxx+1)
         for i in range(n):
-            arr[heights[i]] += 1
-        chk = dict()
-        for i in range(n):
-            chk[heights[i]] = names[i]
+            arr[heights[i]] = names[i]
+
         x = []
         for i in range(maxx,-1,-1):
-            if arr[i] > 0:
-                x.append(chk[i])
+            if arr[i] != 0:
+                x.append(arr[i])
         return x
 
 
