@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Counting
 |  |
