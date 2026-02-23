@@ -3,9 +3,10 @@ class Solution:
         i = 0
         j = len(numbers) - 1
         while i<j:
-            if numbers[i] + numbers[j] > target:
+            cur = numbers[i] + numbers[j]
+            if cur > target:
                 j -= 1
-            elif numbers[i] + numbers[j] < target:
+            elif cur < target:
                 i += 1
             else:
                 return [i+1,j+1]
