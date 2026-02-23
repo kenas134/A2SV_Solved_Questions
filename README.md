@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0078-subsets) |
