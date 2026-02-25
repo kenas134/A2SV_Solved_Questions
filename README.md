@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2671-frequency-tracker](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Prefix Sum
 |  |
