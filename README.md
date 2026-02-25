@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0040-combination-sum-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
