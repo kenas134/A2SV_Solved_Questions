@@ -10,17 +10,18 @@ class Solution:
         ans = list(chk.values())
 
         ans.sort()
-        res = [ans[0]]
+        res = [ans[0][1] - ans[0][0] + 1]
+        start = ans[0][0]
         end = ans[0][1]
         for i in range(1,len(ans)):
             left,right = ans[i]
             if end >= left:
                 end = max(end,right)
-                res[-1][1] = end
+                res.pop()
+                res.append(end-start+1)
             else:
-                res.append(ans[i])
-                end = right
-        s = []
-        for i in range(len(res)):
-            s.append(res[i][1]-res[i][0]+1)
-        return s
+                res.append(right-left+1)
+                start = ans[i][0]
+                end = ans[i][1]
+
+        return res
