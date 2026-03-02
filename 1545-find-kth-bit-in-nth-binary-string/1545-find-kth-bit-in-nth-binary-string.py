@@ -10,11 +10,11 @@ class Solution:
                     x.append("1")
             return "".join(x)
 
-        arr = ["0"]
+        arr = "0"
 
         for i in range(n):
-            s = arr[-1]
-            arr.append(s+"1"+invert(s))
+            s = arr
+            arr = s+"1"+invert(s)
 
-        return arr[n-1][k-1]
+        return arr[k-1]
 
