@@ -1,20 +1,20 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
-        def invert(s):
-            s = s[::-1]
-            x = []
-            for i in s:
-                if i == "1":
-                    x.append("0")
-                else:
-                    x.append("1")
-            return "".join(x)
+        
+        length = 2**n -1
+        def helper(length,k):
 
-        arr = "0"
+            if length == 1:
+                return "0"
 
-        for i in range(n):
-            s = arr
-            arr = s+"1"+invert(s)
+            half = length//2
 
-        return arr[k-1]
+            if k > half+1:
+                x = helper(half,1+length-k)
+                return "0" if x == "1" else "1"
+            elif k <= half:
+                return helper(half,k)
+            else:
+                return "1"
+        return helper(length,k)
 
