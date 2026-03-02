@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
