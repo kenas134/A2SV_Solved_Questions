@@ -18,9 +18,7 @@ class Solution:
                                 res.append((l-r))
                             else:
                                 res.append(l*r)
-
             if not res:
-                res.append(int(expr))
-            
+                return [int(expr)]
             return res
         return helper(expression)
