@@ -11,9 +11,6 @@ class Solution:
             if need in count:
                 ans += count[need]
 
-            if summ in count:
-                count[summ] += 1
-            else:
-                count[summ] = 1
+            count[summ] = count.get(summ,0)+1
 
         return ans
