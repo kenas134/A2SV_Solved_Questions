@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
