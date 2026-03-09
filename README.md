@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -424,5 +425,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
