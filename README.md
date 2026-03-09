@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
