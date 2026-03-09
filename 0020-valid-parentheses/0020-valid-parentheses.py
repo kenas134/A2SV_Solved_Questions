@@ -1,8 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        def closed(s1,j):
-            return s1 == "{" and j == "}" or s1 == "(" and j == ")" or s1 == "[" and j == "]" 
+        pair = {"{":"}","(":")","[":"]"}
 
 
         stack = []
@@ -12,7 +11,7 @@ class Solution:
             else:
                 if stack:
                     cur = stack.pop()
-                    if not closed(cur,s[i]):
+                    if pair[cur] != s[i]:
                         return False
                 else:
                     return False
