@@ -9,10 +9,8 @@ class Solution:
             if s[i] in "{([":
                 stack.append(s[i])
             else:
-                if stack:
-                    cur = stack.pop()
-                    if pair[cur] != s[i]:
-                        return False
+                if stack and pair[stack[-1]] == s[i]:
+                    stack.pop()
                 else:
                     return False
         return not stack
