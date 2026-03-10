@@ -13,9 +13,11 @@ class Solution:
                 cur = stack.pop()
                 if cur == destination:
                     return True
+                
                 if cur not in visited:
-                    visited.add(cur)
-                    stack.extend(graph[cur])
+                    for neighbour in graph[cur]:
+                        visited.add(cur)
+                        stack.append(neighbour)
             return False
             
 
