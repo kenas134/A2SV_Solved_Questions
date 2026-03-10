@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2671-frequency-tracker](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -472,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
