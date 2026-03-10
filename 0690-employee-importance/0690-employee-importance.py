@@ -9,11 +9,10 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        graph = defaultdict(list)
+        graph = {}
         for node in employees:
-            i,im,neigbour = node.id,node.importance,node.subordinates
-            graph[i].append(im)
-            graph[i].append(neigbour)
+            i,im,neibour = node.id,node.importance,node.subordinates
+            graph[i] = [im,neibour]
 
         visited = set()
         def dfs(node):
