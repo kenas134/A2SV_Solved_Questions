@@ -4,18 +4,20 @@ class Solution:
         for n1,n2 in edges:
             graph[n1].append(n2)
             graph[n2].append(n1)
-        visited = set()
-        def dfs(node):
-            if node in visited:
-                return
-            if node == destination:
-                return True
-            visited.add(node)
 
-            for neighbour in graph[node]:
-                if dfs(neighbour):
+        def dfs():
+            visited = set()
+            stack = [source]
+
+            while stack:
+                cur = stack.pop()
+                if cur == destination:
                     return True
+                if cur not in visited:
+                    visited.add(cur)
+                    stack.extend(graph[cur])
             return False
+            
 
-        return dfs(source)
 
+        return dfs()
