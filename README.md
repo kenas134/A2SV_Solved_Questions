@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0722-remove-comments](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
