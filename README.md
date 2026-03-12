@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3356-zero-array-transformation-ii) |
 | [3527-find-the-most-common-response](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3356-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
