@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0690-employee-importance](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0690-employee-importance](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0965-univalued-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -532,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
