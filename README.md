@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
