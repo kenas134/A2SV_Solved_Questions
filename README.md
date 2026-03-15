@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
