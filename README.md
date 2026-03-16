@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0330-patching-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0781-rabbits-in-forest](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [1029-two-city-scheduling](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
