@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0641-design-circular-deque](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0722-remove-comments](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0781-rabbits-in-forest](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [2671-frequency-tracker](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
