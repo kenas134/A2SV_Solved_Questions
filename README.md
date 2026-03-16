@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0781-rabbits-in-forest](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [1029-two-city-scheduling](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Two Pointers
 |  |
 | ------- |
