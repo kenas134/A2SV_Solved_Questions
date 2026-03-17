@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [1922-count-good-numbers](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
