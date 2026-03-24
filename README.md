@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -284,9 +286,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
