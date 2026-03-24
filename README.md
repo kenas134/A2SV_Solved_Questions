@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
