@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2671-frequency-tracker](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
