@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
