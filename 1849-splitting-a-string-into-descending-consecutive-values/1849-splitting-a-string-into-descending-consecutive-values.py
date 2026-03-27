@@ -20,6 +20,8 @@ class Solution:
                 return True
             for j in range(idx,len(s)):
                 val = int(s[idx:j+1])
+                if val+1 > prev:
+                    return False
                 if val + 1 == prev and dfs(j+1,val):
                     return True
                     
