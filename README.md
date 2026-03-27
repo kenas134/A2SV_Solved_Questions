@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0641-design-circular-deque](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Union-Find
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
