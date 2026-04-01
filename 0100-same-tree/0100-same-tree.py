@@ -20,5 +20,4 @@ class Solution:
             return False
         
         # Case 4: check subtrees
-        return self.isSameTree(p.left, q.left) and \
-               self.isSameTree(p.right, q.right)
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
