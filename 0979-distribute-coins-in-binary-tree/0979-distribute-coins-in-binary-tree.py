@@ -22,6 +22,3 @@ class Solution:
         dfs(root)
 
         return self.move
-
-
-
