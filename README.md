@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
