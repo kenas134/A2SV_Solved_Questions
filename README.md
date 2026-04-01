@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Game Theory
