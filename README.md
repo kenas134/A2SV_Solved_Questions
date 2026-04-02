@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search Tree
 |  |
 | ------- |
