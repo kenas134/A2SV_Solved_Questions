@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Matrix
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Binary Search Tree
 |  |
