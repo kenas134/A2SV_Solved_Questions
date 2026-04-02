@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
