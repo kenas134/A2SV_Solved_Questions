@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
