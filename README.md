@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Binary Search Tree
 |  |
