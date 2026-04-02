@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0330-patching-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
