@@ -1,19 +1,17 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
-        result = []
-        
-        def backtrack(start, path):
-            result.append(path[:])
-            
-            for i in range(start, len(nums)):
-                if i > start and nums[i] == nums[i-1]:
+        ans = []
+        def dfs(start,arr):
+
+            ans.append(arr[:])
+            for i in range(start,len(nums)):
+                if  i > start and nums[i] == nums[i-1]:
                     continue
-                    
-                path.append(nums[i])
-                backtrack(i + 1, path)
-                path.pop()
-        
-        backtrack(0, [])
-        return result
+                arr.append(nums[i])
+                dfs(i+1,arr)
+                arr.pop()
+        dfs(0,[])
+        return ans
+
             
