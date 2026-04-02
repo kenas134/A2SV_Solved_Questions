@@ -11,7 +11,7 @@ class Solution:
                 kid[i] += cookies[idx]
                 dfs(idx+1)
                 kid[i] -= cookies[idx]
-                if idx == 0 and kid[i] == 0:
+                if kid[i] == 0:
                     return
 
         dfs(0)
