@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0051-n-queens) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
