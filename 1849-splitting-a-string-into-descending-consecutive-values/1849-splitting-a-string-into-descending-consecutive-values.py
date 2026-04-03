@@ -15,6 +15,8 @@ class Solution:
                     if dfs(i+1):
                         return True
                     ans.pop()
+                elif int(ans[-1])  < int(s[idx:i+1]):
+                    break
             return False
         return dfs(0)
 
