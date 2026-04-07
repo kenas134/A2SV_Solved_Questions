@@ -1,5 +1,6 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
+
         def merge(left_half,right_half):
 
             temp = []
@@ -20,8 +21,7 @@ class Solution:
         def mergesort(left,right):
             if left == right:
                 return [nums[left]]
-            elif left > right:
-                return []
+
             mid = (left+right)//2
             left_part = mergesort(left,mid)
             right_part = mergesort(mid+1,right)
