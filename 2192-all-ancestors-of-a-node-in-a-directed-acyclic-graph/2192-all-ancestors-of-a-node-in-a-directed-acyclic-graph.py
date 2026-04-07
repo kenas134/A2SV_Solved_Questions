@@ -1,28 +1,24 @@
-from collections import deque, defaultdict
-from typing import List
+from collections import defaultdict
 
 class Solution:
-    def getAncestors(self, n: int, edges: List[List[int]]) -> List[List[int]]:
-        ancestors = [set() for _ in range(n)]
+    def getAncestors(self, n: int, edges: list[list[int]]) -> list[list[int]]:
+        # Step 1: Build reverse graph
         graph = defaultdict(list)
-        in_degree = [0] * n
-        
-        # Build graph and compute in-degree
         for u, v in edges:
-            graph[u].append(v)
-            in_degree[v] += 1
-        
-        # Initialize queue with nodes having in-degree 0
-        queue = deque([i for i in range(n) if in_degree[i] == 0])
-        
-        while queue:
-            node = queue.popleft()
+            graph[v].append(u)
+
+        # DFS function
+        def dfs(node, visited):
             for nei in graph[node]:
-                ancestors[nei].add(node)
-                ancestors[nei].update(ancestors[node])
-                
-                in_degree[nei] -= 1
-                if in_degree[nei] == 0:
-                    queue.append(nei)
-        
-        return [sorted(list(anc)) for anc in ancestors]
+                if nei not in visited:
+                    visited.add(nei)
+                    dfs(nei, visited)
+
+        # Step 2: Run DFS for each node
+        res = []
+        for i in range(n):
+            visited = set()
+            dfs(i, visited)
+            res.append(sorted(visited))
+
+        return res
