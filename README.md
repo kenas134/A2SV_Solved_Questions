@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
