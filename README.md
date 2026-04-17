@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1763-longest-nice-substring](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
