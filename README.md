@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3527-find-the-most-common-response](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
