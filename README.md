@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0162-find-peak-element) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
