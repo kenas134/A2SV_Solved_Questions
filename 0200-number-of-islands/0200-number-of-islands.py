@@ -3,34 +3,22 @@ class Solution:
         ROW = len(grid)
         COL = len(grid[0])
 
-        visited = [[0]*COL for i in range(ROW)]
+        dir = [[1,0],[-1,0],[0,1],[0,-1]]
 
-        di = [(1,0),(-1,0),(0,1),(0,-1)]
-        queue = deque()
-        def bfs(i,j):
-            queue.append((i,j))
-            visited[i][j] = 1
-            while queue:
-                cx,cy = queue.popleft()
+        def dfs(i,j):
+            grid[i][j] = "0"
 
-                for dx,dy in di:
-                    x = cx + dx
-                    y = cy + dy
+            for dx,dy in dir:
+                nx,ny = i+dx,j+dy
 
-                    if 0<= x < ROW and 0 <= y < COL and not visited[x][y] and grid[x][y] == "1":
-                        queue.append((x,y))
-                        visited[x][y] = 1
-
-
+                if 0<= nx < ROW and 0 <= ny < COL and grid[nx][ny] == "1":
+                    dfs(nx,ny)
 
 
         ans = 0
         for i in range(ROW):
             for j in range(COL):
-                if not visited[i][j] and grid[i][j] == "1":
+                if grid[i][j] == "1":
                     ans += 1
-                    bfs(i,j)
-
+                    dfs(i,j)
         return ans
-
-        
