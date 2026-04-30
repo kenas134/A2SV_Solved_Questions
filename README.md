@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kenas134/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
